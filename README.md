@@ -1,4 +1,4 @@
-# Figuras Geométricas - Área y Perímetro con PHP 📐
+# Figuras Geométricas - Área y Perímetro con PHP 
 
 Este es un proyecto web sencillo que te permite calcular el área y el perímetro de figuras geométricas básicas: un cuadrado, un círculo y un triángulo.
 
