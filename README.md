@@ -61,7 +61,7 @@ Se requiere un servidor web local como **XAMPP** o **WAMPPserver** previamente i
 1.  **Haz un *fork* del repositorio:** Crea una copia del repositorio en tu cuenta de GitHub.
 2.  **Clona el repositorio:** Clona tu *fork* a tu máquina local.
     ```bash
-    git clone [https://github.com/rodokizzzdev/AyPFigurasPHP.git](https://github.com/rodokizzzdev/AyPFigurasPHP.git)
+    git clone [https://github.com/rodokizzzdev/AyPFigurasPHP-.git](https://github.com/Tu-usuario/AyPFigurasPHP.git)
     ```
 3.  **Crea una nueva rama:** Trabaja en una rama separada para tus cambios.
     ```bash
